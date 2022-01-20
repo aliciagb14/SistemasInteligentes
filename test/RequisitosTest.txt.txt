@@ -1,0 +1,4 @@
+Aquí se incluirán las imagenes con las que se va a probar nuestro sistema en una carpeta llamada \test.
+Podemos cogerla de la carpeta
+
+https://drive.google.com/drive/folders/1eshZrbFWZebnYpBRKD_K-S1MRcd9Bugg?usp=sharing

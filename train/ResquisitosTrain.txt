@@ -1,0 +1,7 @@
+
+A continuación se encuentra el enlace donde clasificamos las imágenes que usa nuestro sistema inteligente.
+Las imágenes deben estar en una carpeta llamada \train
+Nuestro ".py" debe estar en el mismo directorio.
+
+
+https://drive.google.com/drive/folders/1eshZrbFWZebnYpBRKD_K-S1MRcd9Bugg?usp=sharing
